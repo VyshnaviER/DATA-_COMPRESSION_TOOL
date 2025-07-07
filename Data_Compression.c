@@ -17,7 +17,7 @@ void compressFile(const char *input, const char *output) {
     int count = 1;
 
     previousChar = fgetc(in); //Start with the first character
-  
+
     //REad character by character from the file
     while ((currentChar = fgetc(in)) != EOF) {
         if (currentChar == previousChar) {
