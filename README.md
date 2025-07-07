@@ -71,3 +71,7 @@ Overall, this project was not only a learning experience in terms of coding, but
 Compression Output
 
 ![Image](https://github.com/user-attachments/assets/f29fe4c2-8c02-4fe2-bcae-2abe7b43a271)
+
+Decompression Output:
+
+![Image](https://github.com/user-attachments/assets/55f0fa46-df8c-4c14-88b0-92bb2e0e95a8)
