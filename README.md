@@ -65,3 +65,9 @@ Working on this RLE Data Compression Tool provided a hands-on understanding of h
 This task also helped improve logical thinking and reinforced the importance of writing clean and modular code. Even though Run-Length Encoding is a basic compression technique, implementing it from scratch helped build a strong foundation for understanding how more advanced data compression methods work in real applications.
 
 Overall, this project was not only a learning experience in terms of coding, but also a chance to think from a problem-solving perspective — which is essential in any software development role. It reflects how even small tools can be meaningful and useful when built with the right approach.
+
+# Output
+
+Compression Output
+
+![Image](https://github.com/user-attachments/assets/f29fe4c2-8c02-4fe2-bcae-2abe7b43a271)
